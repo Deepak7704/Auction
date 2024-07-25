@@ -13,7 +13,7 @@
       }
     ],
     "env": {
-      "DJANGO_SETTINGS_MODULE": "your_project_name.settings",
+      "DJANGO_SETTINGS_MODULE": "commerce.settings",
       "PYTHONUNBUFFERED": "1",
       "DATABASE_URL": "sqlite:///db.sqlite3"
     },
